@@ -125,7 +125,7 @@
       <div class="about">
         <center>
         <p style="font-size:40px;padding-top:70px;" data-aos="fade-up" data-aos-delay="100" data-aos-duration="500">ABOUT US</p>
-        <p style="font-size:20px;margin-right:150px;margin-left:150px;margin-top:60px;" data-aos="fade-right" data-aos-delay="500" data-aos-duration: "1000">Muchhal & Gupta, Chartered Accountants established in 1988 is having qualified professionals, providing Assurance and Auditing, Direct & Indirect Taxation, Advisory and various Offshore services. Known for their professional ethos and technical expertise, driven by astuteness of over three decades and a team of highly competent professionals, we provide effective solutions to our client’s needs, running into deep engagements.</p>
+        <p style="font-size:20px;margin-right:150px;margin-left:150px;margin-top:60px;" data-aos="fade-right" data-aos-delay="500" data-aos-duration: "1000">Muchhal & Gupta, Chartered Accountants established in 1988 is having qualified professionals, providing Assurance and Auditing, Direct & Indirect Taxation, Advisory and various Offshore services. Known for their professional ethos and technical expertise, driven by astuteness of over three decades and a team of highly competent professionals, we provide effective solutions to their client’s needs, running into deep engagements.</p>
         <p style="font-size:20px;margin-right:150px;margin-left:150px;margin-top:50px;" data-aos="fade-right" data-aos-delay="500" data-aos-duration: "1000">They sternly believe in being a partner to our client and not a mere service provider. They also understand that businesses are inherently different thus we tailor our services to meet client’s specific needs and banish the ‘one-size-fits-all’ standardization. </p>
         <p style="font-size:20px;margin-right:150px;margin-left:150px;margin-top:50px;padding-bottom:50px;margin-bottom:0px;" data-aos="fade-right" data-aos-delay="500" data-aos-duration: "1000">They recruit, train, motivate and retain highly capable and sharpest talent, who bring quality in their work and deliver the best solutions. Their team of highly skilled and motivated professionals includes Chartered Accountants (Indian CPA), Management graduates and Company secretaries who have worked for top consulting firms and have also travelled outside India for various assignments. Over the years, we have gained in-depth experience in providing multitude of services.</p>
         </center>
@@ -293,7 +293,7 @@
                 <div class="card-wrapper" style="z-index:1;" data-aos="flip-left" data-aos-delay="100" data-aos-duration="5000" >
                   <div class="card" style="z-index:1;" >
                     <div class="card-image">
-                      <!-- <img src="assets/Vaibhav.jpeg" alt="profile one"> -->
+                      <img src="assets/Santosh Muchhal.jpeg" alt="profile one" style="height:330px;">
                     </div>
                     <div class="details">
                       <h5>
@@ -308,7 +308,7 @@
                 <div class="card-wrapper" style="z-index:1;" data-aos="flip-left" data-aos-delay="100" data-aos-duration="5000">
                   <div class="card" style="z-index:1;">
                     <div class="card-image">
-                      <!-- <img src="assets/Vaibhav.jpeg" alt="profile one"> -->
+                      <img src="assets/Prakash Gupta.jpeg" alt="profile one" style="height:330px;">
                     </div>
                     <div class="details">
                       <h5>
@@ -374,7 +374,7 @@
                 <div class="card-wrapper" style="z-index:1;" data-aos="flip-left" data-aos-delay="100" data-aos-duration="5000">
                   <div class="card" style="z-index:1;">
                     <div class="card-image">
-                      <!-- <img src="assets/Vaibhav.jpeg" alt="profile one"> -->
+                      <img src="assets/Shashank.jpeg" alt="profile one" style="height:330px;">
                     </div>
                     <div class="details">
                       <h5>
@@ -529,7 +529,7 @@
             <div class="col-md-6" style="padding:auto;">
             <center>
             <div style="height:350px;width:450px;margin-top:100px; border:2px solid #eee; display:inline-block;overflow:hidden;">
-              <iframe src="https://www.google.com/maps/d/embed?mid=1lRoUHirrXjtFDFNPttd-AvbHUoMTjeta&ehbc=2E312F" width="450" height="420" style="position:relative; top:-55px; border:none;float:left;"></iframe>
+              <iframe src="https://www.google.com/maps/d/embed?mid=1lRoUHirrXjtFDFNPttd-AvbHUoMTjeta&ehbc=2E312F" width="450" height="420" style="position:relative; top:-60px; border:none;float:left;"></iframe>
             </div>
             </center>
             </div>
@@ -565,14 +565,6 @@
               </center>
             </div>
             <div class="col-md-4">
-              <div class="cardbox">
-                <center>
-                  <p>Designed and Developed by:</p>
-                  <p style="margin-top:-15px;margin-bottom:8px;font-size:13px" >Bharti Gupta</p>
-                  <a href="https://www.facebook.com/bhartigupta.2002" ><i class="fa fa-facebook " style="color:#032152;font-size:20px;margin:10px;margin-top:0px;"aria-hidden="true"></i></a>
-                  <a href="https://www.linkedin.com/in/bharti-gupta-2002/"><i class="fa fa-linkedin " style="color:#032152;margin:10px;margin-top:0px;font-size:20px;"aria-hidden="true"></i></a>
-                  <a href="https://www.instagram.com/bharti_gupta_10/"><i class="fa fa-instagram " style="color:#032152;margin:10px;margin-top:0px;font-size:20px;"aria-hidden="true"></i></a>
-              </div>
             </div>
           </div>
         </div>
@@ -1202,7 +1194,6 @@
               <a href="https://www.linkedin.com/company/muchhal-gupta/about/?viewAsMember=true"><i class="fa fa-linkedin " style="color:#032152;margin-right:15px;font-size:25px;"aria-hidden="true"></i></a>
               </p>
               <p style="color:#032152;font-size:13px;">Copyright © 2021 Muchhal & Gupta. </p>
-              <p style="color:#032152;font-size:13px;">Designed by Bharti Gupta. </p>
             </center>
           </footer>
 
